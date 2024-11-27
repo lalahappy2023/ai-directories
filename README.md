@@ -46,6 +46,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [AI Tool Trek](https://aitooltrek.com/) - Curated list of latestnet AI tools & AI News.
 - [All The AI Tools](https://alltheaitools.com/) - Explore our comprehensive AI Tools Directory. Find, compare, and choose the best AI tools for your needs.
 - [AI Tools Explore](https://aiex.me/) - Curated tools and insights to elevate your AI-driven projects.
+- [Aijourney](https://aijourney.so/) -  Explore over 5,000 AI tools across 50+ categories to kickstart your AI business.
+
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
@@ -110,6 +112,4 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 - [The Next AI Tool](https://thenextaitool.com) - Discover over 43K AI tools across 80+ categories
 
 # Add Yours
-
-Feel Free to add your AI Directory To this list
 
